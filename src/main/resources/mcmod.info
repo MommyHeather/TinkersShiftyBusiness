@@ -1,0 +1,17 @@
+[
+{
+  "modid": "tsb",
+  "name": "Tinkers' Shifty Business",
+  "description": "Lets you crouch to disable AOE mining with AOE tinkers tools.",
+  "version": "${version}",
+  "url": "https://github.com/MommyHeather/TinkersShiftyBusiness",
+  "updateUrl": "",
+  "authorList": ["MommyHeather"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "advgenerators"
+  ]
+}
+]
